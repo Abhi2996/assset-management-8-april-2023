@@ -1,4 +1,4 @@
-//Tenant means Asset or prodoct
+//Tenant ->means Asset or prodoct
 class Tenant {
   final int? id;
   final String assetname;
